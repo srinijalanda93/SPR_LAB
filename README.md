@@ -1,6 +1,3 @@
-Of course! Here is the provided information formatted as a standard GitHub README file using Markdown.
-
----
 
 # Lab 1: Sampling and Reconstruction of Speech Signals 
 
